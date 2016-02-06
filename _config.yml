@@ -2,6 +2,7 @@ name: Readoscope
 favicon: null
 layout_spectrum: 0.003804923966526985
 typography_spectrum: 0.4470606269314885
+title: Readoscope
 cta:
   domain: null
   bucket: null
