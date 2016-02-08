@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Readoscope]]></title>
+        <description><![CDATA[Readoscope]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 06:28:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Threshold voltage]]></title>
+            <description><![CDATA[<article><h1>Threshold voltage</h1><p>(Part 1 in a series of posts on small-form-factor computing)</p></article>]]></description>
+            <link>undefinedthresholds-in-computing-part-1-what-is-a-threshold/index.html</link>
+            <guid isPermaLink="false">3b69caca-8ead-4804-a8b3-dfc09d0f0db4</guid>
+            <pubDate>Mon, 08 Feb 2016 06:28:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
